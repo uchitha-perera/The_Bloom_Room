@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Cat">
+        <item>All</item>
+        <item>Valentine</item>
+        <item>Birthday</item>
+        <item>Graduation</item>
+        <item>Anniversary</item>
+        <item>Funeral</item>
+    </string-array>
+</resources>
