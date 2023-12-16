@@ -3,7 +3,7 @@
 ![App Preview](readme_imgs/Preview.png) <!-- You can insert an image of your app here -->
 
 ## Description
-Uchitha 
+This Android app developed for a small boutique in Colombo called The Bloom Room to manage their day to day task smoothly and efficiency. 
 
 ## Features
 - Login and Signup with validation
